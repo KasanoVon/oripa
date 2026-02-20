@@ -1,11 +1,24 @@
 {
-    "fetched_at": "2026-02-20T17:45:03.374931+00:00",
+    "fetched_at": "2026-02-20T18:00:03.504119+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 0,
-            "posts": []
+            "count": 1,
+            "posts": [
+                {
+                    "id": "2024905815166165404",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nリザードンex sarが当たりました！\n\n#オリパワン当選報告 https://t.co/FkSynGxK89",
+                    "author_name": "なんだかんだ",
+                    "author_username": "nandaka7979",
+                    "created_at": "2026-02-21T02:55:41+09:00",
+                    "likes": 1,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBnpGikbAAAzkdi.jpg"
+                    ]
+                }
+            ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -14,8 +27,45 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 0,
-            "posts": []
+            "count": 3,
+            "posts": [
+                {
+                    "id": "2024906536292941892",
+                    "text": "ハラバリー\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/tUhSITjEqS",
+                    "author_name": "ten",
+                    "author_username": "tentensup",
+                    "created_at": "2026-02-21T02:58:33+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBnpwcuaoAAaLvr.jpg"
+                    ]
+                },
+                {
+                    "id": "2024906310727487643",
+                    "text": "なにかのPSA10000\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/J25Bou1ziC",
+                    "author_name": "ten",
+                    "author_username": "tentensup",
+                    "created_at": "2026-02-21T02:57:40+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBnpjOTbgAA_97W.jpg"
+                    ]
+                },
+                {
+                    "id": "2024904451749003334",
+                    "text": "ドーパで当選しました。\nメガシンフォニアを6BOX！！\nキャンペーン中にすべて当選報告します！\nルイージピカチュウ当たらないかな。。\n#DOPAオリパ \n#DOPA当選報告 https://t.co/885T6UjZsD",
+                    "author_name": "かじさん",
+                    "author_username": "poke557",
+                    "created_at": "2026-02-21T02:50:16+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBnn28ZbkAANPDP.jpg"
+                    ]
+                }
+            ]
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
