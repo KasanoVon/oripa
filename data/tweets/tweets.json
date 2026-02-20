@@ -1,46 +1,11 @@
 {
-    "fetched_at": "2026-02-20T22:45:04.273381+00:00",
+    "fetched_at": "2026-02-20T23:00:04.194008+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 3,
-            "posts": [
-                {
-                    "id": "2024978481822724429",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nブラッキーEX SARが当たりました！\n\n#オリパワン当選報告 https://t.co/FXZzDGKivP",
-                    "author_name": "松本 裕樹",
-                    "author_username": "AkbY1208",
-                    "created_at": "2026-02-21T07:44:27+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBorLzlbgAArNT4.jpg"
-                    ]
-                },
-                {
-                    "id": "2024977766257754306",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nムニキスゼロが当たりました！\n\nケースに入ってて最高です！\n\n#オリパワン当選報告 https://t.co/WB0gRRingI",
-                    "author_name": "はな",
-                    "author_username": "_Rlkcy",
-                    "created_at": "2026-02-21T07:41:36+09:00",
-                    "likes": 1,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBoqinZbMAE6dLd.jpg"
-                    ]
-                },
-                {
-                    "id": "2024978142381871507",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nブラッキーEX SARが当たりました！\n\n#オリパワン当選報告",
-                    "author_name": "松本 裕樹",
-                    "author_username": "AkbY1208",
-                    "created_at": "2026-02-21T07:43:06+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": []
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
