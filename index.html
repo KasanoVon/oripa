@@ -487,31 +487,31 @@
         }
 
     /* ===== ランキングセクション ===== */
-    .rnk-card { background: rgba(255,255,255,0.03); border: 1px solid rgba(226,198,139,0.12); border-radius: 12px; padding: 20px; margin-bottom: 16px; }
-    .rnk-rank-row { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
-    .rnk-rank-num { width: 28px; text-align: center; font-size: 1.1rem; font-weight: 700; flex-shrink: 0; color: #94a3b8; }
-    .rnk-rank-num.gold   { color: #fbbf24; }
-    .rnk-rank-num.silver { color: #cbd5e1; }
-    .rnk-rank-num.bronze { color: #d97706; }
+    .rnk-card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 22px 24px; margin-bottom: 16px; backdrop-filter: blur(8px); box-shadow: inset 0 1px 0 rgba(255,255,255,0.04), 0 10px 28px rgba(0,0,0,0.22); }
+    .rnk-rank-row { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+    .rnk-rank-num { width: 28px; text-align: center; font-size: 1.1rem; font-weight: 700; flex-shrink: 0; color: var(--text-muted); }
+    .rnk-rank-num.gold   { color: #c9a84c; }
+    .rnk-rank-num.silver { color: #a8a49c; }
+    .rnk-rank-num.bronze { color: #9b7a4a; }
     .rnk-rank-info { flex: 1; min-width: 0; }
-    .rnk-rank-tag  { font-size: 0.85rem; font-weight: 600; margin-bottom: 5px; }
-    .rnk-bar-wrap  { height: 12px; background: #334155; border-radius: 6px; overflow: hidden; }
-    .rnk-bar-fill  { height: 100%; border-radius: 6px; transition: width 0.7s ease; }
-    .rnk-rank-meta { font-size: 0.72rem; color: #94a3b8; margin-top: 4px; }
-    .rnk-new-badge { display: inline-block; background: #10b981; color: #fff; font-size: 0.65rem; font-weight: 700; padding: 1px 5px; border-radius: 4px; margin-left: 5px; vertical-align: middle; }
+    .rnk-rank-tag  { font-size: 0.85rem; font-weight: 600; margin-bottom: 6px; color: var(--text); }
+    .rnk-bar-wrap  { height: 8px; background: rgba(255,255,255,0.07); border-radius: 4px; overflow: hidden; }
+    .rnk-bar-fill  { height: 100%; border-radius: 4px; transition: width 0.7s ease; }
+    .rnk-rank-meta { font-size: 0.72rem; color: var(--text-muted); margin-top: 5px; }
+    .rnk-new-badge { display: inline-block; background: #10b981; color: #fff; font-size: 0.65rem; font-weight: 700; padding: 1px 6px; border-radius: 4px; margin-left: 6px; vertical-align: middle; }
     #rnk-trend-canvas { width: 100%; border-radius: 6px; }
-    .rnk-legend { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
-    .rnk-legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.75rem; color: #94a3b8; }
+    .rnk-legend { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 14px; }
+    .rnk-legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.75rem; color: var(--text-muted); }
     .rnk-legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
     .rnk-snap-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
-    .rnk-snap-table th { color: #64748b; font-weight: 500; padding: 6px 8px; text-align: right; border-bottom: 1px solid #334155; }
+    .rnk-snap-table th { color: var(--text-muted); font-weight: 600; font-size: 0.72rem; letter-spacing: 0.05em; padding: 6px 8px; text-align: right; border-bottom: 1px solid var(--lux-line); }
     .rnk-snap-table th:first-child { text-align: left; }
-    .rnk-snap-table td { padding: 6px 8px; text-align: right; border-bottom: 1px solid rgba(255,255,255,0.04); }
+    .rnk-snap-table td { padding: 8px 8px; text-align: right; border-bottom: 1px solid rgba(255,255,255,0.04); color: var(--text-dim); }
     .rnk-snap-table td:first-child { text-align: left; }
     .rnk-snap-table tr:last-child td { border-bottom: none; }
-    .rnk-snap-time { font-size: 0.72rem; color: #64748b; margin-bottom: 10px; }
-    .rnk-note { font-size: 0.72rem; color: #475569; margin-top: 10px; }
-    .rnk-update-time { font-size: 0.72rem; color: #64748b; margin-bottom: 16px; }
+    .rnk-snap-time { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 12px; }
+    .rnk-note { font-size: 0.72rem; color: var(--text-muted); opacity: 0.6; margin-top: 12px; }
+    .rnk-update-time { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 16px; }
     </style>
 </head>
 <body>
@@ -1265,7 +1265,7 @@ async function loadRanking() {
             <div class="rnk-rank-num ${rankClasses[i]}">${medals[i] || i + 1}</div>
             <div class="rnk-rank-info">
                 <div class="rnk-rank-tag" style="color:${d.color}">${tag}${newBadge}</div>
-                <div class="rnk-bar-wrap"><div class="rnk-bar-fill" style="width:${pct}%;background:${d.color}"></div></div>
+                <div class="rnk-bar-wrap"><div class="rnk-bar-fill" style="width:${pct}%;background:${hexToRgba(d.color,0.75)};box-shadow:0 0 6px ${hexToRgba(d.color,0.4)}"></div></div>
                 <div class="rnk-rank-meta">累計 <strong>${d.total_posts}</strong> 件</div>
             </div>`;
         list.appendChild(row);
@@ -1283,14 +1283,14 @@ async function loadRanking() {
     const n = slice.length;
     const allVals = slice.flatMap(s => Object.values(s.data).map(d => d.total_posts));
     const yMax = Math.max(...allVals, 1);
-    ctx.strokeStyle = '#334155'; ctx.lineWidth = 1;
+    ctx.strokeStyle = chartTheme.gridMinor; ctx.lineWidth = 1;
     [0, 0.25, 0.5, 0.75, 1].forEach(r => {
         const y = PAD.top + plotH * (1 - r);
         ctx.beginPath(); ctx.moveTo(PAD.left, y); ctx.lineTo(PAD.left + plotW, y); ctx.stroke();
-        ctx.fillStyle = '#64748b'; ctx.font = '10px sans-serif'; ctx.textAlign = 'right';
+        ctx.fillStyle = chartTheme.tick; ctx.font = '10px sans-serif'; ctx.textAlign = 'right';
         ctx.fillText(Math.round(yMax * r), PAD.left - 4, y + 3);
     });
-    ctx.fillStyle = '#64748b'; ctx.font = '10px sans-serif'; ctx.textAlign = 'center';
+    ctx.fillStyle = chartTheme.tick; ctx.font = '10px sans-serif'; ctx.textAlign = 'center';
     const step = Math.max(1, Math.floor(n / 5));
     for (let i = 0; i < n; i += step) {
         ctx.fillText(fmtR(slice[i].ts), PAD.left + (i / Math.max(n - 1, 1)) * plotW, H - 4);
