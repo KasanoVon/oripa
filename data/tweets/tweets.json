@@ -1,48 +1,11 @@
 {
-    "fetched_at": "2026-02-20T15:00:03.402080+00:00",
+    "fetched_at": "2026-02-20T15:15:03.363628+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 3,
-            "posts": [
-                {
-                    "id": "2024860633406308763",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nムニキスゼロ　1ボックスが当たりました！\n\n#オリパワン当選報告 https://t.co/U8oMuBG4gW",
-                    "author_name": "R 120",
-                    "author_username": "R12080503836",
-                    "created_at": "2026-02-20T23:56:09+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBnAA_FbkAA-Yyq.jpg"
-                    ]
-                },
-                {
-                    "id": "2024858566943989954",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nレシラム&amp;リザードンが当たりました！\n\n#オリパワン当選報告 https://t.co/GekBDeUlWj",
-                    "author_name": "ソース",
-                    "author_username": "UZhzJB2c0k87799",
-                    "created_at": "2026-02-20T23:47:57+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBm-Ie9aQAAhom7.jpg"
-                    ]
-                },
-                {
-                    "id": "2024858307480154246",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nPSA10ニンフィアが当たりました！\n今年初めての2等が出ました！\n\n#オリパワン当選報告 https://t.co/xmsSoZJVq5",
-                    "author_name": "Masa",
-                    "author_username": "Masanwpb",
-                    "created_at": "2026-02-20T23:46:55+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBm95CLbUAAI37G.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -51,88 +14,13 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 5,
-            "posts": [
-                {
-                    "id": "2024861331753672942",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\n\nニンフィア　GX\nありがとう https://t.co/4ntPfcC9Ks",
-                    "author_name": "味噌煮込み",
-                    "author_username": "misonikomisoba6",
-                    "created_at": "2026-02-20T23:58:56+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBnApbSaIAASDD6.jpg"
-                    ]
-                },
-                {
-                    "id": "2024860898213658962",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\nかわいいの当たりました〜☺️ https://t.co/AptJWaNF07",
-                    "author_name": "yu",
-                    "author_username": "yu1745131",
-                    "created_at": "2026-02-20T23:57:12+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBnAQPragAAW5bQ.jpg"
-                    ]
-                },
-                {
-                    "id": "2024860028453507307",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\nここから爆アドゑ https://t.co/HS9GWwQfMD",
-                    "author_name": "アンルルナ",
-                    "author_username": "an_ruruna",
-                    "created_at": "2026-02-20T23:53:45+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBm_daUawAAPcRS.jpg"
-                    ]
-                },
-                {
-                    "id": "2024859888271413538",
-                    "text": "売り切れたから！\n一発で当てたのさー！\n#DOPA当選報告 https://t.co/OCkVot7iAe",
-                    "author_name": "ゆう",
-                    "author_username": "a5l8w",
-                    "created_at": "2026-02-20T23:53:12+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBm_VZ-agAEdKH-.jpg",
-                        "https://pbs.twimg.com/media/HBm_VaCacAA_VB3.jpg"
-                    ]
-                },
-                {
-                    "id": "2024858504457285659",
-                    "text": "あざす\n#DOPAオリパ\n#DOPA当選報告 https://t.co/62AWtty5iq",
-                    "author_name": "eiji",
-                    "author_username": "Proceedtonext",
-                    "created_at": "2026-02-20T23:47:42+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBm-En8aEAAjiyX.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2024857851030905051",
-                    "text": "#Cloveオリパ\n#Clove当選報告\nいつもありがとうございます。\n感謝しています！ https://t.co/MCUEpLxwsr",
-                    "author_name": "グレート パパ タケシ",
-                    "author_username": "ChatGPTforever",
-                    "created_at": "2026-02-20T23:45:06+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBm9fAva0AAE7GN.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#オリくじ当選報告": {
             "color": "#f59e0b",
