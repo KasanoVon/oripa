@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-02-20T18:30:03.369099+00:00",
+    "fetched_at": "2026-02-20T18:45:03.407184+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
@@ -14,57 +14,8 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 4,
-            "posts": [
-                {
-                    "id": "2024913002382938342",
-                    "text": "リーリエのピッピ\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/3uVS4PEvi1",
-                    "author_name": "ten",
-                    "author_username": "tentensup",
-                    "created_at": "2026-02-21T03:24:15+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBnvpM-bcAAk0QE.jpg"
-                    ]
-                },
-                {
-                    "id": "2024912066864447536",
-                    "text": "シャワーズ CHR\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/XXdpbUaHLD",
-                    "author_name": "ten",
-                    "author_username": "tentensup",
-                    "created_at": "2026-02-21T03:20:32+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBnuyYvbcAA_EBI.jpg"
-                    ]
-                },
-                {
-                    "id": "2024911585219936735",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\n嬉しい！ https://t.co/LhwTfTtasA",
-                    "author_name": "さくらっち",
-                    "author_username": "ozuuBQa2JmwDl1M",
-                    "created_at": "2026-02-21T03:18:37+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBnuWonbgAE5C5e.jpg"
-                    ]
-                },
-                {
-                    "id": "2024911501786841300",
-                    "text": "なにかのPSA\nイーブイ！\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/F9c2p7xkBf",
-                    "author_name": "ten",
-                    "author_username": "tentensup",
-                    "created_at": "2026-02-21T03:18:17+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBnuRZUaoAEJVG-.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
