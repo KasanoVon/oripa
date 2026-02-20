@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-02-20T23:15:04.260317+00:00",
+    "fetched_at": "2026-02-20T23:30:02.623197+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
@@ -14,8 +14,21 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 0,
-            "posts": []
+            "count": 1,
+            "posts": [
+                {
+                    "id": "2024987285822005733",
+                    "text": "#DOPAオリパ\n#DOPA当選報告\nブーさんありがとう！\n当たってビックリしました！ https://t.co/R7bH6zk0GB",
+                    "author_name": "納豆",
+                    "author_username": "nattou634",
+                    "created_at": "2026-02-21T08:19:26+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBozNFebgAI5td7.jpg"
+                    ]
+                }
+            ]
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
@@ -24,22 +37,8 @@
         },
         "#オリくじ当選報告": {
             "color": "#f59e0b",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2024986093964460471",
-                    "text": "細々とやっていたオリくじでLv100に到達しました🎉\nで、いくつかガチャを回し続け、\n🔥リザードン CHR PSA10\nをゲットできたので、\n💰特別プレゼント松\nと発送依頼させていただきました！😆\n50,000coin相当…何が届くか楽しみ👀\n#オリくじ\n#オリくじ当選報告 https://t.co/rqCogUx7Wu",
-                    "author_name": "アルゴリず",
-                    "author_username": "Algori_Zu",
-                    "created_at": "2026-02-21T08:14:41+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBoyF-8aoAAE-oQ.jpg",
-                        "https://pbs.twimg.com/media/HBoyGAxbgAIGc5N.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         }
     }
 }
