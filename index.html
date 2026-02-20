@@ -485,6 +485,33 @@
             .header-title { font-size: 17px; }
             .chart-grid { grid-template-columns: 1fr; grid-template-rows: 300px 52px; gap: 6px; }
         }
+
+    /* ===== ランキングセクション ===== */
+    .rnk-card { background: rgba(255,255,255,0.03); border: 1px solid rgba(226,198,139,0.12); border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+    .rnk-rank-row { display: flex; align-items: center; gap: 10px; margin-bottom: 14px; }
+    .rnk-rank-num { width: 28px; text-align: center; font-size: 1.1rem; font-weight: 700; flex-shrink: 0; color: #94a3b8; }
+    .rnk-rank-num.gold   { color: #fbbf24; }
+    .rnk-rank-num.silver { color: #cbd5e1; }
+    .rnk-rank-num.bronze { color: #d97706; }
+    .rnk-rank-info { flex: 1; min-width: 0; }
+    .rnk-rank-tag  { font-size: 0.85rem; font-weight: 600; margin-bottom: 5px; }
+    .rnk-bar-wrap  { height: 12px; background: #334155; border-radius: 6px; overflow: hidden; }
+    .rnk-bar-fill  { height: 100%; border-radius: 6px; transition: width 0.7s ease; }
+    .rnk-rank-meta { font-size: 0.72rem; color: #94a3b8; margin-top: 4px; }
+    .rnk-new-badge { display: inline-block; background: #10b981; color: #fff; font-size: 0.65rem; font-weight: 700; padding: 1px 5px; border-radius: 4px; margin-left: 5px; vertical-align: middle; }
+    #rnk-trend-canvas { width: 100%; border-radius: 6px; }
+    .rnk-legend { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+    .rnk-legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.75rem; color: #94a3b8; }
+    .rnk-legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .rnk-snap-table { width: 100%; border-collapse: collapse; font-size: 0.8rem; }
+    .rnk-snap-table th { color: #64748b; font-weight: 500; padding: 6px 8px; text-align: right; border-bottom: 1px solid #334155; }
+    .rnk-snap-table th:first-child { text-align: left; }
+    .rnk-snap-table td { padding: 6px 8px; text-align: right; border-bottom: 1px solid rgba(255,255,255,0.04); }
+    .rnk-snap-table td:first-child { text-align: left; }
+    .rnk-snap-table tr:last-child td { border-bottom: none; }
+    .rnk-snap-time { font-size: 0.72rem; color: #64748b; margin-bottom: 10px; }
+    .rnk-note { font-size: 0.72rem; color: #475569; margin-top: 10px; }
+    .rnk-update-time { font-size: 0.72rem; color: #64748b; margin-bottom: 16px; }
     </style>
 </head>
 <body>
@@ -560,6 +587,39 @@
         </div>
         <div id="tweet-filter" class="tweet-filter"></div>
         <div id="tweet-cards" class="tweet-cards"></div>
+    </div>
+
+    <!-- 当選報告数ランキング -->
+    <div class="section">
+        <div class="section-title">当選報告数ランキング</div>
+        <p class="rnk-update-time" id="rnk-update-time"></p>
+
+        <div class="rnk-card">
+            <div class="section-title" style="font-size:0.85rem;margin-bottom:14px;">累計当選報告数</div>
+            <div id="rnk-rank-list"></div>
+        </div>
+
+        <div class="rnk-card">
+            <div class="section-title" style="font-size:0.85rem;margin-bottom:14px;">累計報告数の推移</div>
+            <canvas id="rnk-trend-canvas"></canvas>
+            <div class="rnk-legend" id="rnk-legend"></div>
+        </div>
+
+        <div class="rnk-card">
+            <div class="section-title" style="font-size:0.85rem;margin-bottom:14px;">最新スナップショット</div>
+            <p class="rnk-snap-time" id="rnk-snap-time"></p>
+            <table class="rnk-snap-table">
+                <thead>
+                    <tr>
+                        <th>ハッシュタグ</th>
+                        <th>累計報告数</th>
+                        <th>今回新規</th>
+                    </tr>
+                </thead>
+                <tbody id="rnk-snap-tbody"></tbody>
+            </table>
+            <p class="rnk-note">※ 各取得で上位100件のみ追跡。実際の投稿数はこれより多い場合があります。</p>
+        </div>
     </div>
 
 </div>
@@ -1175,7 +1235,97 @@ function initImageModal() {
     });
 }
 
-window.onload = () => { init(); loadTweets(); initImageModal(); };
+// ===== ランキング =====
+async function loadRanking() {
+    const HISTORY_URL = 'data/tweets/ranking_history.json';
+    let history;
+    try {
+        const res = await fetch(HISTORY_URL);
+        if (!res.ok) return;
+        history = await res.json();
+    } catch (e) { return; }
+    if (!history.length) return;
+
+    const latest = history[history.length - 1];
+    const fmtR = iso => { try { return new Date(iso).toLocaleString('ja-JP', { month:'numeric', day:'numeric', hour:'2-digit', minute:'2-digit' }); } catch { return iso; } };
+    document.getElementById('rnk-update-time').textContent = `最終更新: ${fmtR(latest.ts)}`;
+
+    const tags = Object.keys(latest.data).sort((a, b) => latest.data[b].total_posts - latest.data[a].total_posts);
+    const maxPosts = Math.max(...tags.map(t => latest.data[t].total_posts), 1);
+    const medals = ['🥇', '🥈', '🥉'];
+    const rankClasses = ['gold', 'silver', 'bronze', '', ''];
+    const list = document.getElementById('rnk-rank-list');
+    tags.forEach((tag, i) => {
+        const d = latest.data[tag];
+        const pct = (d.total_posts / maxPosts * 100).toFixed(1);
+        const newBadge = d.new_posts > 0 ? `<span class="rnk-new-badge">+${d.new_posts}</span>` : '';
+        const row = document.createElement('div');
+        row.className = 'rnk-rank-row';
+        row.innerHTML = `
+            <div class="rnk-rank-num ${rankClasses[i]}">${medals[i] || i + 1}</div>
+            <div class="rnk-rank-info">
+                <div class="rnk-rank-tag" style="color:${d.color}">${tag}${newBadge}</div>
+                <div class="rnk-bar-wrap"><div class="rnk-bar-fill" style="width:${pct}%;background:${d.color}"></div></div>
+                <div class="rnk-rank-meta">累計 <strong>${d.total_posts}</strong> 件</div>
+            </div>`;
+        list.appendChild(row);
+    });
+
+    const canvas = document.getElementById('rnk-trend-canvas');
+    const W = canvas.parentElement.clientWidth - 40;
+    const H = Math.round(W * 0.4);
+    canvas.width = W; canvas.height = H;
+    const ctx = canvas.getContext('2d');
+    const PAD = { top: 12, right: 10, bottom: 28, left: 48 };
+    const plotW = W - PAD.left - PAD.right;
+    const plotH = H - PAD.top - PAD.bottom;
+    const slice = history.slice(-96);
+    const n = slice.length;
+    const allVals = slice.flatMap(s => Object.values(s.data).map(d => d.total_posts));
+    const yMax = Math.max(...allVals, 1);
+    ctx.strokeStyle = '#334155'; ctx.lineWidth = 1;
+    [0, 0.25, 0.5, 0.75, 1].forEach(r => {
+        const y = PAD.top + plotH * (1 - r);
+        ctx.beginPath(); ctx.moveTo(PAD.left, y); ctx.lineTo(PAD.left + plotW, y); ctx.stroke();
+        ctx.fillStyle = '#64748b'; ctx.font = '10px sans-serif'; ctx.textAlign = 'right';
+        ctx.fillText(Math.round(yMax * r), PAD.left - 4, y + 3);
+    });
+    ctx.fillStyle = '#64748b'; ctx.font = '10px sans-serif'; ctx.textAlign = 'center';
+    const step = Math.max(1, Math.floor(n / 5));
+    for (let i = 0; i < n; i += step) {
+        ctx.fillText(fmtR(slice[i].ts), PAD.left + (i / Math.max(n - 1, 1)) * plotW, H - 4);
+    }
+    tags.forEach(tag => {
+        const color = latest.data[tag]?.color || '#888';
+        ctx.strokeStyle = color; ctx.lineWidth = 2; ctx.beginPath();
+        slice.forEach((snap, i) => {
+            const val = snap.data[tag]?.total_posts ?? 0;
+            const x = PAD.left + (i / Math.max(n - 1, 1)) * plotW;
+            const y = PAD.top + plotH * (1 - val / yMax);
+            i === 0 ? ctx.moveTo(x, y) : ctx.lineTo(x, y);
+        });
+        ctx.stroke();
+    });
+    const legend = document.getElementById('rnk-legend');
+    tags.forEach(tag => {
+        const color = latest.data[tag]?.color || '#888';
+        legend.innerHTML += `<div class="rnk-legend-item"><div class="rnk-legend-dot" style="background:${color}"></div><span>${tag}</span></div>`;
+    });
+
+    document.getElementById('rnk-snap-time').textContent = `取得時刻: ${fmtR(latest.ts)}`;
+    const tbody = document.getElementById('rnk-snap-tbody');
+    tags.forEach(tag => {
+        const d = latest.data[tag];
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td style="color:${d.color}">${tag}</td>
+            <td><strong>${d.total_posts}</strong></td>
+            <td style="color:${d.new_posts > 0 ? '#10b981' : '#475569'}">${d.new_posts > 0 ? '+' + d.new_posts : '-'}</td>`;
+        tbody.appendChild(tr);
+    });
+}
+
+window.onload = () => { init(); loadTweets(); initImageModal(); loadRanking(); };
 </script>
 </body>
 </html>
