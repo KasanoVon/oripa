@@ -1,48 +1,11 @@
 {
-    "fetched_at": "2026-02-21T12:30:05.464305+00:00",
+    "fetched_at": "2026-02-21T12:45:03.622800+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 3,
-            "posts": [
-                {
-                    "id": "2025185375850037463",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nヒビキのホウオウ当たりました！\n\n#オリパワン当選報告 https://t.co/29cKN2HFEo",
-                    "author_name": "I AM HAYATO",
-                    "author_username": "HayatoKaneshige",
-                    "created_at": "2026-02-21T21:26:34+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBrnU2BaAAA4kdC.jpg"
-                    ]
-                },
-                {
-                    "id": "2025183362470797513",
-                    "text": "オリパワン（@oripaone）\nナンジャモゲット✨\n\n案件お待ちしております🧏\n#オリパワン当選報告 https://t.co/jNRZMNEUmz",
-                    "author_name": "トリハダの白い方",
-                    "author_username": "torihadaCh",
-                    "created_at": "2026-02-21T21:18:34+09:00",
-                    "likes": 21,
-                    "retweets": 2,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBrlh88aAAEf8Ps.jpg"
-                    ]
-                },
-                {
-                    "id": "2025183033591255310",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\n最初の300コインでゼクロムex BWR PSA10が当たりました！\n\n#オリパワン当選報告 https://t.co/015gge9UTn",
-                    "author_name": "まっつ",
-                    "author_username": "ggwp_matu",
-                    "created_at": "2026-02-21T21:17:15+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBrlPCVbcAAEgt_.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -51,21 +14,8 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2025184156649746797",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\nDopaありがとうね https://t.co/GSb0JDGFDt",
-                    "author_name": "ありす🐰",
-                    "author_username": "A1iz7",
-                    "created_at": "2026-02-21T21:21:43+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBrmPl5aEAAwyDq.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
@@ -74,33 +24,8 @@
         },
         "#オリくじ当選報告": {
             "color": "#f59e0b",
-            "count": 2,
-            "posts": [
-                {
-                    "id": "2025185680117358792",
-                    "text": "オリくじ（@orikuji）がアツすぎる🔥\n【グレイシアv】ぶち抜きで爆アドゲットだぜ！！！\n\n#オリくじ当選報告\n#オリくじ https://t.co/WdPSf0lCFm",
-                    "author_name": "あゆむ",
-                    "author_username": "ayu0610ka",
-                    "created_at": "2026-02-21T21:27:46+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBrno_ZasAAo7jv.jpg"
-                    ]
-                },
-                {
-                    "id": "2025184025372230084",
-                    "text": "オリくじ（@orikuji）がアツすぎる🔥\n【マリィ】ぶち抜きで爆アドゲットだぜ！！！\n\n#オリくじ当選報告\n#オリくじ https://t.co/lduyFEf6sP",
-                    "author_name": "るる",
-                    "author_username": "xg2ZpeT8uQUvr12",
-                    "created_at": "2026-02-21T21:21:12+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBrmIqDbwAACgJG.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         }
     }
 }
