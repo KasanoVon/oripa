@@ -1,11 +1,24 @@
 {
-    "fetched_at": "2026-02-21T04:45:03.744391+00:00",
+    "fetched_at": "2026-02-21T05:00:04.660401+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 0,
-            "posts": []
+            "count": 1,
+            "posts": [
+                {
+                    "id": "2025070748625502648",
+                    "text": "オリパワン(@oripaone)しか勝たん！\n\nＶユニピカチュウが当たりました！\n\n#オリパワン当選報告 https://t.co/BlOLF96oFK",
+                    "author_name": "nao777",
+                    "author_username": "naochan_chin777",
+                    "created_at": "2026-02-21T13:51:05+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBp_G53bcAEVBYj.jpg"
+                    ]
+                }
+            ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -32,49 +45,23 @@
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2025067372999287153",
-                    "text": "#Clove当選報告 \nありがとう！！ https://t.co/R7nIPT8Y2C",
-                    "author_name": "魚",
-                    "author_username": "1ksPX9orU5oAhej",
-                    "created_at": "2026-02-21T13:37:40+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBp7_Jja0AAezHb.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#オリくじ当選報告": {
             "color": "#f59e0b",
-            "count": 2,
+            "count": 1,
             "posts": [
                 {
-                    "id": "2025068263596851477",
-                    "text": "オリくじ（@orikuji）がアツすぎる🔥\n【ゴッホピカチュウ】ぶち抜きで爆アドゲットだぜ！！！\n\n#オリくじ当選報告\n#オリくじ https://t.co/Tx4WbVJtli",
-                    "author_name": "REI",
-                    "author_username": "kirachari_com",
-                    "created_at": "2026-02-21T13:41:12+09:00",
+                    "id": "2025072528524480543",
+                    "text": "オリくじ（@orikuji）がアツすぎる🔥\n【ゼラオラV、スペースジャグラーbox】ぶち抜きで爆アドゲットだぜ！！！\n\n先月から始めてやっとレベル100達成\n松コースのプレゼントもいただきました！\nフルメタルウォール、スカーレットex、バトルパートナーズでした。\n\n#オリくじ当選報告\n#オリくじ https://t.co/toQxYMsi45",
+                    "author_name": "gaimon",
+                    "author_username": "gaimon758",
+                    "created_at": "2026-02-21T13:58:09+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBp82esaEAAt2Nc.jpg"
-                    ]
-                },
-                {
-                    "id": "2025066418530910415",
-                    "text": "オリくじは発送も早くて安心感ある。\nオリくじ（@orikuji）がアツすぎる🔥\n【ブラッキー】ぶち抜きで爆アドゲットだぜ！！！\n\n#オリくじ当選報告\n#オリくじ https://t.co/wIiT0QTXXR",
-                    "author_name": "しゃる。",
-                    "author_username": "syaru117",
-                    "created_at": "2026-02-21T13:33:52+09:00",
-                    "likes": 1,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBp7LRZbgAIshrC.jpg",
-                        "https://pbs.twimg.com/media/HBp7LMMbUAAOsiO.jpg"
+                        "https://pbs.twimg.com/media/HBqAucoa4AA9rY9.jpg"
                     ]
                 }
             ]
