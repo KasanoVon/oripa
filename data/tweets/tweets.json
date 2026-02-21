@@ -1,24 +1,11 @@
 {
-    "fetched_at": "2026-02-21T15:15:03.255892+00:00",
+    "fetched_at": "2026-02-21T15:30:03.471816+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2025224006149013734",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nプレステ5とAirPodsPro3‼️\n当たりました‼️\n\n#オリパワン当選報告 https://t.co/BQF2ffv8Q8",
-                    "author_name": "ﾀｰｰｰｰｰﾘﾝ",
-                    "author_username": "numaaaaa867",
-                    "created_at": "2026-02-22T00:00:04+09:00",
-                    "likes": 1,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsKfpwbgAcPwjH.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -27,18 +14,79 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 1,
+            "count": 6,
             "posts": [
                 {
-                    "id": "2025226079187992839",
-                    "text": "当選報告…\n\n初ゲットです⭐️\n\n#DOPAオリパ \n#DOPA\n#DOPA当選報告 https://t.co/suQE17R9FG",
-                    "author_name": "ひなとロボ",
-                    "author_username": "X4oUQk5eN983132",
-                    "created_at": "2026-02-22T00:08:18+09:00",
+                    "id": "2025231353411969128",
+                    "text": "久しぶりに当たったー！\nありがとう!\n#DOPAオリパ\n#DOPA当選報告 https://t.co/BwU3cyXlN5",
+                    "author_name": "koi",
+                    "author_username": "koi76487456",
+                    "created_at": "2026-02-22T00:29:16+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBsMYXSbgAMEclY.jpg"
+                        "https://pbs.twimg.com/media/HBsRLvIbMAAqTVN.jpg"
+                    ]
+                },
+                {
+                    "id": "2025230473459630393",
+                    "text": "#DOPAオリパ\n#DOPA当選報告\nボックス当選したよ！ https://t.co/byHdw0RMse",
+                    "author_name": "Iti",
+                    "author_username": "itigonoai",
+                    "created_at": "2026-02-22T00:25:46+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBsQYXtaMAA-0dl.jpg"
+                    ]
+                },
+                {
+                    "id": "2025228882354602251",
+                    "text": "インフェルノXあたったよー\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/L7ZWLeHGPq",
+                    "author_name": "とるる２５２５",
+                    "author_username": "toruru_25fx",
+                    "created_at": "2026-02-22T00:19:27+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBsO7rjbgAYSONu.jpg"
+                    ]
+                },
+                {
+                    "id": "2025228715693932637",
+                    "text": "#DOPAオリパ \n#DOPA当選報告 \n#DOPA3周年\nいつも集金お疲れ様です、施しありがとうDOPA、shinsaさん。 https://t.co/dm213legZl",
+                    "author_name": "みやたく",
+                    "author_username": "miyataku0526",
+                    "created_at": "2026-02-22T00:18:47+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBsOx36agAADaCi.jpg"
+                    ]
+                },
+                {
+                    "id": "2025228127258235388",
+                    "text": "#DOPAオリパ \n#DOPA当選報告 \n一パック発送が限界😵白しか出ないし https://t.co/HxYwiq3ELx",
+                    "author_name": "みやたく",
+                    "author_username": "miyataku0526",
+                    "created_at": "2026-02-22T00:16:27+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBsOPJAboAAEalk.jpg",
+                        "https://pbs.twimg.com/media/HBsOPI2bgAE9ilJ.jpg"
+                    ]
+                },
+                {
+                    "id": "2025227918725841223",
+                    "text": "ずっと欲しかった…\n\nブラッキーを今回初めてゲットできました⭐️\n\n#DOPAオリパ \n#DOPA\n#DOPA当選報告 https://t.co/ZC0ELkxl27",
+                    "author_name": "ひなとロボ",
+                    "author_username": "X4oUQk5eN983132",
+                    "created_at": "2026-02-22T00:15:37+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBsODeKaAAAqvGq.jpg"
                     ]
                 }
             ]
