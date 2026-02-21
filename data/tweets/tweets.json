@@ -1,115 +1,104 @@
 {
-    "fetched_at": "2026-02-21T06:00:03.381680+00:00",
+    "fetched_at": "2026-02-21T06:15:03.239331+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 4,
+            "count": 5,
             "posts": [
                 {
-                    "id": "2025087802120249384",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nトウホクのピカチュウが当たりました！\n\n#オリパワン当選報告 https://t.co/9U7QbgfKCO",
+                    "id": "2025090872074023333",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nNの筋書きPSA10が当たりました！\n\n#オリパワン当選報告 https://t.co/K7plz3iaHk",
+                    "author_name": "【シザー】レンチャンアオイ",
+                    "author_username": "aoiyz_9",
+                    "created_at": "2026-02-21T15:11:02+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqRaZRbgAA73Kt.jpg"
+                    ]
+                },
+                {
+                    "id": "2025089796813808011",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nゼクロム、ピカチュウが当たりました！\n黒ケースのゼクロムが欲しかったのですごく嬉しいです\n\n#オリパワン当選報告 https://t.co/qknQvzHI7y",
+                    "author_name": "らえりー@低浮上",
+                    "author_username": "Rqely",
+                    "created_at": "2026-02-21T15:06:46+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqQb5jbgAQhz_v.jpg"
+                    ]
+                },
+                {
+                    "id": "2025088979016810993",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nメガルカリオexが当たりました！\n\n#オリパワン当選報告\n\n招待コード\n\nmypDzp\n\n累計1万課金したら➕1500円入るよ☺️ https://t.co/D7KhIXAkmX",
+                    "author_name": "ミュウ　ワンピース　ポケモン　入荷情報を共有",
+                    "author_username": "poke0710003",
+                    "created_at": "2026-02-21T15:03:31+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqPsO0bgAEBwkl.jpg"
+                    ]
+                },
+                {
+                    "id": "2025088714100408598",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\n招待コードDjnwxB\n #オリパワン当選報告 \n#オリパワン\n低課金でも、遊べる！\n\nリザードン当たりました！\n\nオリパワン（@oripaone）しか勝たん\n\n#オリパワン当選報告 https://t.co/aDClnFye2O",
+                    "author_name": "そう、そうなのよ",
+                    "author_username": "BpUI9hRFHu86341",
+                    "created_at": "2026-02-21T15:02:28+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqPdBGaQAA8Bcz.jpg"
+                    ]
+                },
+                {
+                    "id": "2025088483266887815",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nヒロシマのピカチュウが当たりました！\n\n#オリパワン当選報告 https://t.co/hKKoybBVW5",
                     "author_name": "リバー",
                     "author_username": "river1556",
-                    "created_at": "2026-02-21T14:58:50+09:00",
+                    "created_at": "2026-02-21T15:01:33+09:00",
                     "likes": 0,
-                    "retweets": 0,
+                    "retweets": 1,
                     "images": [
-                        "https://pbs.twimg.com/media/HBqOniZaIAAs9wA.jpg"
-                    ]
-                },
-                {
-                    "id": "2025086080878608773",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nマスボブラッキーが当たりました！\n\n#オリパワン当選報告 https://t.co/QfHgDLFeQW",
-                    "author_name": "karmaking",
-                    "author_username": "karmaki94001118",
-                    "created_at": "2026-02-21T14:52:00+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqNDqzbgAYJyOZ.jpg"
-                    ]
-                },
-                {
-                    "id": "2025085886288069019",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nMゲンガーが当たりました！\n\n#オリパワン当選報告 https://t.co/1yw5QsNOS7",
-                    "author_name": "テテタウン",
-                    "author_username": "S4DVM9KXyg84069",
-                    "created_at": "2026-02-21T14:51:14+09:00",
-                    "likes": 1,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqM4BSbgAA1ha6.jpg"
-                    ]
-                },
-                {
-                    "id": "2025084957950181633",
-                    "text": "オリパワン（@oripaone）しか勝たん\nラブブですが初めて当選しました。\n子供が喜んでくれました♪\n#オリパワン当選報告 https://t.co/x5iOpzyn8m",
-                    "author_name": "シュタルク",
-                    "author_username": "hotdogUO",
-                    "created_at": "2026-02-21T14:47:32+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqMCNQagAALVZM.jpg"
+                        "https://pbs.twimg.com/media/HBqPPNQagAAVd9t.jpg"
                     ]
                 }
             ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2025087239068549228",
-                    "text": "#トレカセンター当選報告\n\n本日ゼイユのPSA10が届きました！\nまさか当たるとは思ってなかったので嬉しいです！ https://t.co/gM0YDttytJ",
-                    "author_name": "延東 浩輝",
-                    "author_username": "hT1O1sO2p5D82Iv",
-                    "created_at": "2026-02-21T14:56:36+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqOG9kbgAAhLjL.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 3,
+            "count": 2,
             "posts": [
                 {
-                    "id": "2025086233173717106",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\n\nイーブイ可愛い😍\nありがとうございます😊 https://t.co/ieBzhzIWTR",
-                    "author_name": "nobu",
-                    "author_username": "ruuuuuuua",
-                    "created_at": "2026-02-21T14:52:36+09:00",
+                    "id": "2025089355128410589",
+                    "text": "#DOPAオリパ\n#DOPA当選報告\n初の高額BOX https://t.co/icBv2ZlbZV",
+                    "author_name": "ごし",
+                    "author_username": "y231207g",
+                    "created_at": "2026-02-21T15:05:01+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBqNMJwbgAIlBTS.jpg"
+                        "https://pbs.twimg.com/media/HBqQBrQbYAAmH-3.jpg"
                     ]
                 },
                 {
-                    "id": "2025085009452040255",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\nスタンダードバトルナミ\nあたったよー！",
-                    "author_name": "けん",
-                    "author_username": "pokeca30k03",
-                    "created_at": "2026-02-21T14:47:45+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": []
-                },
-                {
-                    "id": "2025084419548348705",
-                    "text": "#DOPA当選報告\n\n#DOPAオリパ\n#DOPA当選報告\nなにかのPSA10\n15000当たりました https://t.co/AujRgnEZiH",
-                    "author_name": "いちょとあちょ",
-                    "author_username": "tJun2A1UHbJJ4yO",
-                    "created_at": "2026-02-21T14:45:24+09:00",
+                    "id": "2025089202397098446",
+                    "text": "#DOPAオリパ\n#DOPA当選報告\nついに黒箱来ました\nピカチュウやっぱいいね！ https://t.co/KH6U8rnyi8",
+                    "author_name": "ごし",
+                    "author_username": "y231207g",
+                    "created_at": "2026-02-21T15:04:24+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBqLi84a8AA_Z74.jpg"
+                        "https://pbs.twimg.com/media/HBqP4yubgAM97HM.jpg"
                     ]
                 }
             ]
@@ -121,8 +110,21 @@
         },
         "#オリくじ当選報告": {
             "color": "#f59e0b",
-            "count": 0,
-            "posts": []
+            "count": 1,
+            "posts": [
+                {
+                    "id": "2025090645271212063",
+                    "text": "オリくじ（@orikuji）がアツすぎる🔥\n【バトルパートナーズ】ぶち抜きで爆アドゲットだぜ！！！\n\n#オリくじ当選報告\n#オリくじ https://t.co/JQJk2kjRPV",
+                    "author_name": "福柚",
+                    "author_username": "toooa0504",
+                    "created_at": "2026-02-21T15:10:08+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqRNTWbgAU8B8E.jpg"
+                    ]
+                }
+            ]
         }
     }
 }
