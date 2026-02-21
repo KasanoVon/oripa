@@ -1,11 +1,36 @@
 {
-    "fetched_at": "2026-02-21T23:00:03.979341+00:00",
+    "fetched_at": "2026-02-21T23:15:04.323482+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 0,
-            "posts": []
+            "count": 2,
+            "posts": [
+                {
+                    "id": "2025348371763106161",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nSwitch2が当たりました！\n\n#オリパワン当選報告 https://t.co/SkUGcAMFLS",
+                    "author_name": "u-2",
+                    "author_username": "n7UY4UJaOFqNgz8",
+                    "created_at": "2026-02-22T08:14:15+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBt7gX4bgAI1LJ4.jpg"
+                    ]
+                },
+                {
+                    "id": "2025347946557165655",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nラティラティが当たりました！\nトップ当たると嬉しいね！\n\n招待コード　Plpmv3\n\nよければ使ってください！\n何度も言いますが、よく当たります！\nちゃんと、当たってちゃんと発送されます！\nワンニキ、レッドブルあげる！\nいつもありがとう😊\n#オリパワン当選報告 https://t.co/AJcMRh7bTp",
+                    "author_name": "インゴット神",
+                    "author_username": "kamikami5100",
+                    "created_at": "2026-02-22T08:12:34+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBt7M5pbgAE-r1k.jpg"
+                    ]
+                }
+            ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -17,15 +42,15 @@
             "count": 1,
             "posts": [
                 {
-                    "id": "2025341842120999174",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\n被り物してるピカチュウ当たりましたー🥳いつもありがとうございまーす🎉 https://t.co/eNA467fB0I",
-                    "author_name": "田中強",
-                    "author_username": "pnMFPlbTwFA3ra2",
-                    "created_at": "2026-02-22T07:48:18+09:00",
-                    "likes": 1,
+                    "id": "2025345071143678249",
+                    "text": "何かのPSA届いた^^\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/LPyiOeYzAQ",
+                    "author_name": "ナッツ",
+                    "author_username": "Pnut72P",
+                    "created_at": "2026-02-22T08:01:08+09:00",
+                    "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBt1quKawAAD8Ck.jpg"
+                        "https://pbs.twimg.com/media/HBt4muHacAAKePY.jpg"
                     ]
                 }
             ]
