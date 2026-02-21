@@ -1,11 +1,58 @@
 {
-    "fetched_at": "2026-02-21T13:15:03.601149+00:00",
+    "fetched_at": "2026-02-21T13:30:03.678156+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 0,
-            "posts": []
+            "count": 4,
+            "posts": [
+                {
+                    "id": "2025201159397658851",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nバトルパートナーズBOXとARロコン、その他が何と500円で当たりました！お得すぎます😀皆さん今すぐ始めましょう\n\n#オリパワン当選報告 https://t.co/fzoggPefta",
+                    "author_name": "元気バリバリ",
+                    "author_username": "gorogoromizuu",
+                    "created_at": "2026-02-21T22:29:17+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBr1t_CbgAYpW3F.jpg"
+                    ]
+                },
+                {
+                    "id": "2025199737927065652",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nシャイニートレジャーとロコンが当たりました！\n\n#オリパワン当選報告",
+                    "author_name": "ポテト",
+                    "author_username": "poppotetopoteto",
+                    "created_at": "2026-02-21T22:23:38+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": []
+                },
+                {
+                    "id": "2025199615738622217",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nYU NAGABAプロモの\nピカチュウとグレイシア\nが当たりました！\n\nｱﾘｶﾞﾄｳ‼︎\n\n#オリパワン当選報告 https://t.co/7UCIFF6wRG",
+                    "author_name": "Ackey",
+                    "author_username": "AckeyNBA_LA",
+                    "created_at": "2026-02-21T22:23:09+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBr0T_sbgAAnUp7.jpg"
+                    ]
+                },
+                {
+                    "id": "2025197839413035078",
+                    "text": "@oripaone オリパワン（@oripaone）しか勝たん！\n\nリザドンget！！！\n\n#オリパワン当選報告 https://t.co/pRSYXRHSGy",
+                    "author_name": "Rei",
+                    "author_username": "Reijrc",
+                    "created_at": "2026-02-21T22:16:05+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBrysizbgAAWfLE.jpg"
+                    ]
+                }
+            ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -14,8 +61,33 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 0,
-            "posts": []
+            "count": 2,
+            "posts": [
+                {
+                    "id": "2025201325940899910",
+                    "text": "久しぶりにやったらめちゃくちゃ良いのが当たりました！\nしかも黒箱！！\n欲しかったゲンガー！！！\nDOPAしか勝たん！！\n#DOPAオリパ\n#DOPA当選報告 https://t.co/0ueZFhlWpH",
+                    "author_name": "ポケカマン",
+                    "author_username": "pokeka_man030",
+                    "created_at": "2026-02-21T22:29:57+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBr135hbgAAgwsl.jpg"
+                    ]
+                },
+                {
+                    "id": "2025199357990240702",
+                    "text": "#DOPAオリパ\n#DOPA当選報告\nセブンピカチュウ最高じゃん☺️ https://t.co/GpHnGDBIXQ",
+                    "author_name": "黒春",
+                    "author_username": "pikapika_0304",
+                    "created_at": "2026-02-21T22:22:07+09:00",
+                    "likes": 1,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBr0FI_bcAAkJKf.jpg"
+                    ]
+                }
+            ]
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
