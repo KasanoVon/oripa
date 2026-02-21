@@ -1,48 +1,11 @@
 {
-    "fetched_at": "2026-02-21T04:30:05.055717+00:00",
+    "fetched_at": "2026-02-21T04:45:03.744391+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 3,
-            "posts": [
-                {
-                    "id": "2025063935834206678",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nピカチュウが当たりました！\n319は楽しい！\n\n#オリパワン当選報告 https://t.co/YiNUMHdFxd",
-                    "author_name": "キム・キムチ",
-                    "author_username": "3939daisuki4545",
-                    "created_at": "2026-02-21T13:24:00+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBp46g-bIAAInMa.jpg"
-                    ]
-                },
-                {
-                    "id": "2025063907153572050",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nピカチュウexとナンジャモとタロが当たりました！\n\n#オリパワン当選報告 https://t.co/kgq9FmjoMT",
-                    "author_name": "ワッター☆Phantom@萌えサミット",
-                    "author_username": "Phantomwatta",
-                    "created_at": "2026-02-21T13:23:53+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBp44vbbgAAk46l.jpg"
-                    ]
-                },
-                {
-                    "id": "2025061795090891121",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nナミ、ナンジャモ sarが当たりました！\n\n#オリパワン当選報告 https://t.co/MQIdDVhfIb",
-                    "author_name": "山田23",
-                    "author_username": "gAtAaWLFdXivSLn",
-                    "created_at": "2026-02-21T13:15:30+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBp29uCbEAAS9V2.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
@@ -51,18 +14,70 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 0,
-            "posts": []
+            "count": 1,
+            "posts": [
+                {
+                    "id": "2025069281768296936",
+                    "text": "#DOPAオリパ\n#DOPA当選報告\n⭐︎リーリエのアブリボン⭐︎\n当選しました♪\nいつもありがとうございます♪ https://t.co/geRA8JbSB9",
+                    "author_name": "Daiki824",
+                    "author_username": "Z9tjEa",
+                    "created_at": "2026-02-21T13:45:15+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBp9xvEboAAMaC9.jpg"
+                    ]
+                }
+            ]
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
-            "count": 0,
-            "posts": []
+            "count": 1,
+            "posts": [
+                {
+                    "id": "2025067372999287153",
+                    "text": "#Clove当選報告 \nありがとう！！ https://t.co/R7nIPT8Y2C",
+                    "author_name": "魚",
+                    "author_username": "1ksPX9orU5oAhej",
+                    "created_at": "2026-02-21T13:37:40+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBp7_Jja0AAezHb.jpg"
+                    ]
+                }
+            ]
         },
         "#オリくじ当選報告": {
             "color": "#f59e0b",
-            "count": 0,
-            "posts": []
+            "count": 2,
+            "posts": [
+                {
+                    "id": "2025068263596851477",
+                    "text": "オリくじ（@orikuji）がアツすぎる🔥\n【ゴッホピカチュウ】ぶち抜きで爆アドゲットだぜ！！！\n\n#オリくじ当選報告\n#オリくじ https://t.co/Tx4WbVJtli",
+                    "author_name": "REI",
+                    "author_username": "kirachari_com",
+                    "created_at": "2026-02-21T13:41:12+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBp82esaEAAt2Nc.jpg"
+                    ]
+                },
+                {
+                    "id": "2025066418530910415",
+                    "text": "オリくじは発送も早くて安心感ある。\nオリくじ（@orikuji）がアツすぎる🔥\n【ブラッキー】ぶち抜きで爆アドゲットだぜ！！！\n\n#オリくじ当選報告\n#オリくじ https://t.co/wIiT0QTXXR",
+                    "author_name": "しゃる。",
+                    "author_username": "syaru117",
+                    "created_at": "2026-02-21T13:33:52+09:00",
+                    "likes": 1,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBp7LRZbgAIshrC.jpg",
+                        "https://pbs.twimg.com/media/HBp7LMMbUAAOsiO.jpg"
+                    ]
+                }
+            ]
         }
     }
 }
