@@ -1,117 +1,92 @@
 {
-    "fetched_at": "2026-02-21T07:00:03.488809+00:00",
+    "fetched_at": "2026-02-21T07:15:03.483669+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 1,
+            "count": 5,
             "posts": [
                 {
-                    "id": "2025103182503051683",
-                    "text": "オリパワン（@oripaone）しか勝たん！\nお茶会ごっこピカチュウが当たりました！\n\n#オリパワン当選報告 https://t.co/r47mne6z5H",
-                    "author_name": "樋川泰之",
-                    "author_username": "36OmxMFDaP10132",
-                    "created_at": "2026-02-21T15:59:57+09:00",
+                    "id": "2025105832942469632",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nミモザが当たりました！\n\n#オリパワン当選報告 https://t.co/sGkLgD7g8V",
+                    "author_name": "らえりー@低浮上",
+                    "author_username": "Rqely",
+                    "created_at": "2026-02-21T16:10:29+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBqcnL8bAAAzdkp.jpg"
+                        "https://pbs.twimg.com/media/HBqfBRCaUAAppAr.jpg"
+                    ]
+                },
+                {
+                    "id": "2025105162155819016",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nサトシのピカチュウが当たりました！\n\n#オリパワン当選報告 https://t.co/2mo535Oh7W",
+                    "author_name": "さっぱりピーマン",
+                    "author_username": "XcC1gG6vklMYOmE",
+                    "created_at": "2026-02-21T16:07:49+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqeaOqacAAT0nh.jpg"
+                    ]
+                },
+                {
+                    "id": "2025105054345429396",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nピカチュウex sar が当たりました！\n\n#オリパワン当選報告 https://t.co/Y7oXZGv0iC",
+                    "author_name": "さっぱりピーマン",
+                    "author_username": "XcC1gG6vklMYOmE",
+                    "created_at": "2026-02-21T16:07:24+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqeT9Jb0AA2SY2.jpg"
+                    ]
+                },
+                {
+                    "id": "2025104899743387947",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nメガリザードンxex が当たりました！\n\n#オリパワン当選報告 https://t.co/Eo80NlNqsV",
+                    "author_name": "さっぱりピーマン",
+                    "author_username": "XcC1gG6vklMYOmE",
+                    "created_at": "2026-02-21T16:06:47+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqeK-HaYAAWeay.jpg"
+                    ]
+                },
+                {
+                    "id": "2025103898667876782",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nリザードンvmax　psa10が当たりました！\n\n#オリパワン当選報告 https://t.co/h60BMH4bSJ",
+                    "author_name": "オジマ",
+                    "author_username": "198Black",
+                    "created_at": "2026-02-21T16:02:48+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBqdQcAa8AEHWkz.jpg"
                     ]
                 }
             ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2025102126003994938",
-                    "text": "#トレカセンター当選報告\n初めて高額当選しましたー！\n大事に飾ります！！！ https://t.co/HBP9F1j2Ro",
-                    "author_name": "やまおか",
-                    "author_username": "kgocf",
-                    "created_at": "2026-02-21T15:55:46+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqbpmvaEAAFb5S.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 6,
+            "count": 1,
             "posts": [
                 {
-                    "id": "2025102598521655309",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\n見返り美人ピカチュウ当たりました https://t.co/4fdVkPEHvY",
-                    "author_name": "樋川泰之",
-                    "author_username": "36OmxMFDaP10132",
-                    "created_at": "2026-02-21T15:57:38+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqcFK5a0AABKdh.jpg"
-                    ]
-                },
-                {
-                    "id": "2025102425921912950",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\nレシラム！かっこいいよね〜次はゼクロム狙います！ https://t.co/yqwTG0VUKz",
+                    "id": "2025103526117212520",
+                    "text": "#DOPAオリパ\n#DOPA当選報告\n\nゼニガメも当たりました。\n151では人気なやつですね！\n綺麗だよね〜 https://t.co/7etfdC16ck",
                     "author_name": "メト/唐揚げの閃光",
                     "author_username": "metonhydrate",
-                    "created_at": "2026-02-21T15:56:57+09:00",
-                    "likes": 0,
+                    "created_at": "2026-02-21T16:01:19+09:00",
+                    "likes": 1,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBqb62da4AAP-O-.jpg"
-                    ]
-                },
-                {
-                    "id": "2025102208170332430",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\n見返り美人ピカチュウ当たりました https://t.co/SHf7C7PMWd",
-                    "author_name": "樋川泰之",
-                    "author_username": "36OmxMFDaP10132",
-                    "created_at": "2026-02-21T15:56:05+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqbuama4AABUbn.jpg"
-                    ]
-                },
-                {
-                    "id": "2025102066004492731",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\n見返り美人ピカチュウ当たりました https://t.co/wNvszr3TSv",
-                    "author_name": "樋川泰之",
-                    "author_username": "36OmxMFDaP10132",
-                    "created_at": "2026-02-21T15:55:31+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqbmKEbgAETV4L.jpg"
-                    ]
-                },
-                {
-                    "id": "2025101930301980994",
-                    "text": "え！え！！通知来てるなおもて開いたら当選してるぅ！！！🥺🥺\nこういうの当たるの初めてで貴重な体験でけた😁😁\nありがとうございますDOPA様様🙇‍♂️🙇‍♂️\n相性いいのかな😏😏笑笑\n\n#DOPA当選報告 \n#DOPAオリパ #dopa3周年おめでとう https://t.co/PX2oyva5Il",
-                    "author_name": "だいすけ",
-                    "author_username": "7i45l",
-                    "created_at": "2026-02-21T15:54:59+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqbXtpbgAM6dBG.jpg"
-                    ]
-                },
-                {
-                    "id": "2025100543442780227",
-                    "text": "#DOPAオリパ\n#DOPA当選報告\nやったー！ https://t.co/mAdxn8gX5P",
-                    "author_name": "婚期遅延",
-                    "author_username": "himazaurusu_02",
-                    "created_at": "2026-02-21T15:49:28+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqaNRzbgAQ6Vqi.jpg"
+                        "https://pbs.twimg.com/media/HBqc6-pbgAQ4ye9.jpg"
                     ]
                 }
             ]
