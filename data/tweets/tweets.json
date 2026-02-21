@@ -1,143 +1,21 @@
 {
-    "fetched_at": "2026-02-21T00:30:02.634744+00:00",
+    "fetched_at": "2026-02-21T00:45:02.655902+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 4,
-            "posts": [
-                {
-                    "id": "2025003001614926257",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nPSA10ルチアのアピール\nPSA10ギラティナが当たりました！\n\n#オリパワン当選報告 https://t.co/MQmgSaM5BE",
-                    "author_name": "Onimaru",
-                    "author_username": "Onimaru91886300",
-                    "created_at": "2026-02-21T09:21:52+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpBfqHbYAADq5G.jpg"
-                    ]
-                },
-                {
-                    "id": "2025002090331079053",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nかわいいの当たりました🥰\n\n#オリパワン当選報告 https://t.co/GyXtemIkOJ",
-                    "author_name": "リク",
-                    "author_username": "vgn_dev2m",
-                    "created_at": "2026-02-21T09:18:15+09:00",
-                    "likes": 1,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpAqdzbgAAxxRa.jpg"
-                    ]
-                },
-                {
-                    "id": "2025001645374144858",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nメイ、ピカチュウV、MゲンガーEX、\nヒロシマピカチュウ、ブルーの探索が当たりました！\n\n#オリパワン当選報告 https://t.co/8d6raFZvG9",
-                    "author_name": "すけこ",
-                    "author_username": "sukeko1980",
-                    "created_at": "2026-02-21T09:16:29+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpAQmcbgAEzbnk.jpg"
-                    ]
-                },
-                {
-                    "id": "2025001526486581417",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nブラッキー25th PSA10が2枚\nサーナイトex SAR PSA10\nカメックス25th PSA10\nメガドリームexボックス\nが当たりました！\n\n#オリパワン当選報告 https://t.co/LiSgfcKTW1",
-                    "author_name": "Gugfjrj",
-                    "author_username": "Gugfjrj",
-                    "created_at": "2026-02-21T09:16:01+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpAJ03awAA1BcW.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2025003694853673344",
-                    "text": "人生初の木箱………👀\nまーじで嬉しい……!!ピカ様⚡️⚡️⚡️⚡️\n\nありがとうありがとうありがとう😊\n\n#トレカセンター当選報告 \n#くりすけの当選品 https://t.co/6vTa4IIf7P",
-                    "author_name": "くりすけ",
-                    "author_username": "Kurisuke0605",
-                    "created_at": "2026-02-21T09:24:38+09:00",
-                    "likes": 2,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpCH8TbgAIlyeU.jpg",
-                        "https://pbs.twimg.com/media/HBpCH8WbgAMA_Or.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 5,
-            "posts": [
-                {
-                    "id": "2025004794046546050",
-                    "text": "期待値あるな〜\n#DOPA  #DOPA当選報告  #dopa3周年おめでとう https://t.co/omgBC3MXhs",
-                    "author_name": "おけん@ポケカ垢",
-                    "author_username": "pokeken7",
-                    "created_at": "2026-02-21T09:29:00+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": []
-                },
-                {
-                    "id": "2025004707627094047",
-                    "text": "どどーん\n#DOPAオリパ\n#DOPA当選報告 https://t.co/DQO3uV08Hf",
-                    "author_name": "ぱちぇだ",
-                    "author_username": "pacheda44",
-                    "created_at": "2026-02-21T09:28:39+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpDC0IbgAAFSZP.jpg"
-                    ]
-                },
-                {
-                    "id": "2025004468170097147",
-                    "text": "初ゲのSwitch2\n#DOPAオリパ\n#DOPA当選報告 https://t.co/jg3XGzJtMx",
-                    "author_name": "ぱちぇだ",
-                    "author_username": "pacheda44",
-                    "created_at": "2026-02-21T09:27:42+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpC0z9bgAAN4w6.jpg"
-                    ]
-                },
-                {
-                    "id": "2025003915109106168",
-                    "text": "高額じゃなくても好きやけ発送😍✋\n\nありがとDOPA🫣🫣🫣\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/fGeWrvPSay",
-                    "author_name": "かつお",
-                    "author_username": "jiji_2016b",
-                    "created_at": "2026-02-21T09:25:30+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpCUPjbgAE4twt.jpg"
-                    ]
-                },
-                {
-                    "id": "2025001974325018780",
-                    "text": "かんこうきゃく以外にも可愛いものたくさん届いてきた！\n\nシロナさんも発送してもらってるけど\nまだ伝票番号未登録のままだから確認してドーパくん！！！！\n\n#DOPAオリパ\n#DOPA当選報告 \n#DOPA3周年おめでとう https://t.co/GjhpzMIoYl",
-                    "author_name": "マギやん",
-                    "author_username": "2524Masa",
-                    "created_at": "2026-02-21T09:17:48+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBpAjlsakAA1O73.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
