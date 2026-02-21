@@ -1,141 +1,80 @@
 {
-    "fetched_at": "2026-02-21T14:30:03.463511+00:00",
+    "fetched_at": "2026-02-21T14:45:03.378599+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 6,
+            "count": 2,
             "posts": [
                 {
-                    "id": "2025216436076269846",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nお誕生日ピカチュウが当たりました！\n\n#オリパワン当選報告 https://t.co/LdtovI8CUy",
-                    "author_name": "くえんさん",
-                    "author_username": "kuensan16",
-                    "created_at": "2026-02-21T23:29:59+09:00",
+                    "id": "2025218687096201320",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nマリィ、ピカチュウex、ミュウexが当たりました！\n\n#オリパワン当選報告 https://t.co/2OKnbX9sVu",
+                    "author_name": "HIRO",
+                    "author_username": "boss19851128",
+                    "created_at": "2026-02-21T23:38:56+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBsDnWpbgAQwiNS.jpg"
+                        "https://pbs.twimg.com/media/HBsFqK0b0AESQTn.jpg"
                     ]
                 },
                 {
-                    "id": "2025216016448712711",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nずっと欲しかったブラッキーex sarが当たりました！\nありがとうございます！！\n\n#オリパワン当選報告 https://t.co/XyQUikd2Ry",
-                    "author_name": "スイカ 〜Suica〜",
-                    "author_username": "f4tqSbNpFhr6bWu",
-                    "created_at": "2026-02-21T23:28:19+09:00",
+                    "id": "2025218456984191252",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nリーリエの全力が当たりました！\n\n#オリパワン当選報告 https://t.co/qRVEyloTp4",
+                    "author_name": "HIRO",
+                    "author_username": "boss19851128",
+                    "created_at": "2026-02-21T23:38:01+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBsDOyLb0AASl0x.jpg"
-                    ]
-                },
-                {
-                    "id": "2025215069735583980",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\n奇跡！\n番号認証時の300コインだけで\nメガリザードンX exが当たりました！\n\n#オリパワン当選報告 https://t.co/lAsKY0NLst",
-                    "author_name": "サキ",
-                    "author_username": "saki4199",
-                    "created_at": "2026-02-21T23:24:33+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsCXocbcAAa7VF.jpg"
-                    ]
-                },
-                {
-                    "id": "2025214785886060962",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\n25thBOX当たりました！\n\n#オリパワン当選報告 https://t.co/2C89ahvB4O",
-                    "author_name": "Tomohiro",
-                    "author_username": "rXwleOy92FATDpb",
-                    "created_at": "2026-02-21T23:23:26+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsCHGCbgAMcgxt.jpg"
-                    ]
-                },
-                {
-                    "id": "2025214207671894331",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nリザードンexとゼイユとピカチュウVMAXが当たりました！\n\n#オリパワン当選報告 https://t.co/lsxmwtXudC",
-                    "author_name": "win7776",
-                    "author_username": "win77761",
-                    "created_at": "2026-02-21T23:21:08+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsBldibEAAp5z_.jpg"
-                    ]
-                },
-                {
-                    "id": "2025213981234004470",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nブースターVとホワイトフレアが当たりました！\nブースターいいねぇ\n#オリパワン当選報告 https://t.co/CIdHEXX2aQ",
-                    "author_name": "たぐちゃん",
-                    "author_username": "tkkgog",
-                    "created_at": "2026-02-21T23:20:14+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsBYUJaoAEQk2k.jpg"
+                        "https://pbs.twimg.com/media/HBsFcwAbwAA9kD9.jpg"
                     ]
                 }
             ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
-            "count": 2,
-            "posts": [
-                {
-                    "id": "2025215514369556797",
-                    "text": "#トレカセンター当選報告\n\n久々にゲット！！！ https://t.co/sP84lwmat2",
-                    "author_name": "たち吉",
-                    "author_username": "aokote22",
-                    "created_at": "2026-02-21T23:26:19+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsCxHebgAMuvhJ.jpg"
-                    ]
-                },
-                {
-                    "id": "2025214839845728479",
-                    "text": "妻がほしいって言ってたから10連したら当選した！\nめちゃくちゃ嬉しい！！\n#トレカセンター当選報告 https://t.co/VvBngY74rL",
-                    "author_name": "いっちー",
-                    "author_username": "TWICE04230311CY",
-                    "created_at": "2026-02-21T23:23:39+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsCKf8bUAEG-HI.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 2,
+            "count": 3,
             "posts": [
                 {
-                    "id": "2025215023656960352",
-                    "text": "18pのガチャ10連で、、、\nやっぱり最高\n #DOPAオリパ\n#DOPA当選報告 https://t.co/qDNJ7OazbZ",
-                    "author_name": "オリパ中毒ニキ",
-                    "author_username": "ZbcgiWvwgU21841",
-                    "created_at": "2026-02-21T23:24:22+09:00",
+                    "id": "2025219519221055629",
+                    "text": "DOPAで当選しました🔥\n\n#DOPA当選報告 \n#DOPAオリパ https://t.co/FTXGWAm0Hi",
+                    "author_name": "rin",
+                    "author_username": "taku11531153",
+                    "created_at": "2026-02-21T23:42:14+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBsCU9mb0AAWWhE.jpg"
+                        "https://pbs.twimg.com/media/HBsGac5bgAYfKKC.jpg"
                     ]
                 },
                 {
-                    "id": "2025213868939895094",
-                    "text": "シール当選しました\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/rYGpMT07eM",
-                    "author_name": "アンパンたべるカバ",
-                    "author_username": "0IpZgKQuyP46256",
-                    "created_at": "2026-02-21T23:19:47+09:00",
+                    "id": "2025219367114604584",
+                    "text": "DOPAで当選しました🔥\n\n#DOPA当選報告 \n#DOPAオリパ https://t.co/Vdqfe4Q4IZ",
+                    "author_name": "rin",
+                    "author_username": "taku11531153",
+                    "created_at": "2026-02-21T23:41:38+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBsBQrjakAAtRPL.jpg"
+                        "https://pbs.twimg.com/media/HBsGRpVaoAAgDpP.jpg"
+                    ]
+                },
+                {
+                    "id": "2025218887252681086",
+                    "text": "やったりました！\n10万ポイント以上は2回目✨\n\nやっぱりDOPAですかね？（笑）\n\n#DOPA当選報告 https://t.co/juoJpdtSDW",
+                    "author_name": "milk@料理人",
+                    "author_username": "japan_369g",
+                    "created_at": "2026-02-21T23:39:44+09:00",
+                    "likes": 0,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBsFxJCbgAUlPkr.jpg"
                     ]
                 }
             ]
