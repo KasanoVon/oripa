@@ -1,5 +1,5 @@
 {
-    "fetched_at": "2026-02-21T16:00:03.497510+00:00",
+    "fetched_at": "2026-02-21T16:15:03.589872+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
@@ -14,81 +14,8 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 6,
-            "posts": [
-                {
-                    "id": "2025238909412917426",
-                    "text": "サーナイト！\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/jFzh1UAZnP",
-                    "author_name": "ten",
-                    "author_username": "tentensup",
-                    "created_at": "2026-02-22T00:59:17+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsYDGPbgAAJ6HX.jpg"
-                    ]
-                },
-                {
-                    "id": "2025238519216832996",
-                    "text": "5万円の福袋！\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/vG3AaBozEg",
-                    "author_name": "ten",
-                    "author_username": "tentensup",
-                    "created_at": "2026-02-22T00:57:44+09:00",
-                    "likes": 1,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsXsb8bgAchh5Q.jpg"
-                    ]
-                },
-                {
-                    "id": "2025236162848362766",
-                    "text": "なにかのPSA\nフシギバナ\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/uGqT0aTdb2",
-                    "author_name": "ten",
-                    "author_username": "tentensup",
-                    "created_at": "2026-02-22T00:48:22+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsVjHeawAAUosO.jpg"
-                    ]
-                },
-                {
-                    "id": "2025235736879136907",
-                    "text": "バレンタインデー企画の引きたかったから欲しくも無いバラパック発送したけど終わってた()\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/0krxUAQr6f",
-                    "author_name": "かずみん",
-                    "author_username": "kazumin892",
-                    "created_at": "2026-02-22T00:46:41+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsVK3QbgAEwkZm.jpg"
-                    ]
-                },
-                {
-                    "id": "2025235674832797782",
-                    "text": "なにかのPSA\nニドキング！\n\n#DOPAオリパ\n#DOPA当選報告 https://t.co/5og0Lfxlyx",
-                    "author_name": "ten",
-                    "author_username": "tentensup",
-                    "created_at": "2026-02-22T00:46:26+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsVGv4bMAA6dXw.jpg"
-                    ]
-                },
-                {
-                    "id": "2025235626497646757",
-                    "text": "#DOPAオリパ\n#DOPA当選報告 \nあけられない\n初めてꉂ 🤭 https://t.co/gpbj0ZyFH6",
-                    "author_name": "misaki",
-                    "author_username": "tktkCBR250RR",
-                    "created_at": "2026-02-22T00:46:15+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBsVEVfbgAEtKwf.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
