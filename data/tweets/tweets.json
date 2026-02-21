@@ -1,106 +1,33 @@
 {
-    "fetched_at": "2026-02-21T08:45:03.505427+00:00",
+    "fetched_at": "2026-02-21T09:00:03.528278+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 8,
+            "count": 2,
             "posts": [
                 {
-                    "id": "2025129556529873333",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nごっこピカチュウが当たりました！\n\n#オリパワン当選報告 https://t.co/bScbEowaRn",
-                    "author_name": "吉田大吉",
-                    "author_username": "Wm5T8UIyUS44746",
-                    "created_at": "2026-02-21T17:44:46+09:00",
+                    "id": "2025133252613435466",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\n色々当たりました！\n招待コードのせときます！\nPy7NoR\n\n#オリパワン当選報告 https://t.co/13VmcnSZF1",
+                    "author_name": "カス",
+                    "author_username": "1go1e_k",
+                    "created_at": "2026-02-21T17:59:27+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBq0lrMbgAIEZdK.jpg"
+                        "https://pbs.twimg.com/media/HBq39fvbkAAxtiQ.jpg"
                     ]
                 },
                 {
-                    "id": "2025129134754857050",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nたくさんのものがあたりました。！！！\n\n#オリパワン当選報告 https://t.co/RobYaX0KtD",
-                    "author_name": "天然水",
-                    "author_username": "pokepekepoke",
-                    "created_at": "2026-02-21T17:43:05+09:00",
-                    "likes": 0,
+                    "id": "2025131254614737163",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\n念願のビクティニとプロモピカチュウが当たりました！\nこれは、嬉しい！！！！！\n\n#オリパワン当選報告 https://t.co/aeCiMsmD0a",
+                    "author_name": "もうもろこし 🤯Part2🤯",
+                    "author_username": "PoKeSuRo2021",
+                    "created_at": "2026-02-21T17:51:30+09:00",
+                    "likes": 1,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBq0NM8bgAIVSwH.jpg"
-                    ]
-                },
-                {
-                    "id": "2025129020002894024",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\n金ピカがあたりました。！！！\n\n#オリパワン当選報告 https://t.co/pnmjnJcsUu",
-                    "author_name": "天然水",
-                    "author_username": "pokepekepoke",
-                    "created_at": "2026-02-21T17:42:38+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBq0G6aa4AAvrkz.jpg"
-                    ]
-                },
-                {
-                    "id": "2025128527838990765",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nゼイユが当たりました！\n\n#オリパワン当選報告 https://t.co/urqwjhlmJ8",
-                    "author_name": "にゃんたろ",
-                    "author_username": "5Y4zFfpjj6dyklW",
-                    "created_at": "2026-02-21T17:40:40+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqzp62bkAAJu-s.jpg"
-                    ]
-                },
-                {
-                    "id": "2025128439418855868",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\n見返り美人ピカチュウ当たりました！\n黒ケースまで付いてありがとうございます🙇‍♀️\n\n#オリパワン当選報告 https://t.co/4ynrUaDNuV",
-                    "author_name": "鳥さん",
-                    "author_username": "nn1620",
-                    "created_at": "2026-02-21T17:40:19+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqzgDqbgAI2AeO.jpg",
-                        "https://pbs.twimg.com/media/HBqzgDrbgAcvB1X.jpg"
-                    ]
-                },
-                {
-                    "id": "2025128039110377760",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nウッウ当たりました！\n\n#オリパワン当選報告 https://t.co/7ZBaJfOU1c",
-                    "author_name": "鳥さん",
-                    "author_username": "nn1620",
-                    "created_at": "2026-02-21T17:38:44+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqzNt6a0AAimLA.jpg"
-                    ]
-                },
-                {
-                    "id": "2025127635307954289",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nレシラムゼクロム当たりました！\n\n#オリパワン当選報告 https://t.co/xfly7LTAc6",
-                    "author_name": "鳥さん",
-                    "author_username": "nn1620",
-                    "created_at": "2026-02-21T17:37:07+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqy2EgbgAAZAT3.jpg"
-                    ]
-                },
-                {
-                    "id": "2025125965270302802",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nマリィsrとガマゲロゲAr が当たりました！\n\n#オリパワン当選報告 https://t.co/IGmBHXT8fT",
-                    "author_name": "佐藤",
-                    "author_username": "05GDEHzwws48103",
-                    "created_at": "2026-02-21T17:30:29+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBqxULkbgAYqYVx.jpg"
+                        "https://pbs.twimg.com/media/HBq2JO0bgAEE9QC.jpg"
                     ]
                 }
             ]
@@ -112,8 +39,21 @@
         },
         "#DOPA当選報告": {
             "color": "#10b981",
-            "count": 0,
-            "posts": []
+            "count": 1,
+            "posts": [
+                {
+                    "id": "2025131390782890380",
+                    "text": "今でも覚えてます\nこの日は珍しく熱くなり1/8通して\nポイント増えてその後1/2連続で外してポイント溶けて\n残ったポイントで普段回さないSwitch2単発で回したらまさかの当選🎉\n夢は終わらにぇ❤️‍🔥❤️‍🔥❤️‍🔥\n#DOPA当選報告\n#DOPA3周年 \n#DOPAオリパ https://t.co/5xaoHmFAF2",
+                    "author_name": "あかいブースター❤️‍🔥❤️‍🔥❤️‍🔥",
+                    "author_username": "black_r_rx",
+                    "created_at": "2026-02-21T17:52:03+09:00",
+                    "likes": 1,
+                    "retweets": 0,
+                    "images": [
+                        "https://pbs.twimg.com/media/HBq2Q49bgAI316z.jpg"
+                    ]
+                }
+            ]
         },
         "#Clove当選報告": {
             "color": "#f43f5e",
