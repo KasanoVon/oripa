@@ -1,66 +1,41 @@
 {
-    "fetched_at": "2026-02-21T00:00:02.615278+00:00",
+    "fetched_at": "2026-02-21T00:15:02.621315+00:00",
     "window_min": 15,
     "hashtags": {
         "#オリパワン当選報告": {
             "color": "#3b82f6",
-            "count": 3,
+            "count": 2,
             "posts": [
                 {
-                    "id": "2024997504782401642",
-                    "text": "絶好調☆\nオリパワン（@oripaone）しか勝たん！\n\n只今高騰中！ピカチュウ＆ゼクロム\n他多数が当たりました！\n\nワンニキ全回転２連続で１等当選\nありがとう✨\n\nポイントが貰える招待コード\nまだまだ使えます♪\n【1CZTyl】\nよろしくお願い致します🙇\n\n#オリパワン当選報告 https://t.co/G3v4lQHKF7",
-                    "author_name": "ひろ",
-                    "author_username": "hiroyuki8618",
-                    "created_at": "2026-02-21T09:00:02+09:00",
+                    "id": "2024999953807167597",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nポケカが当たりました！\n\n#オリパワン当選報告 https://t.co/pfYRfvE9Ru",
+                    "author_name": "savage",
+                    "author_username": "savage375996",
+                    "created_at": "2026-02-21T09:09:46+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBo8fe1bgAAyTrY.jpg"
+                        "https://pbs.twimg.com/media/HBo-uQkbgAEQcSE.jpg"
                     ]
                 },
                 {
-                    "id": "2024995628015911328",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nブラッキーexが当たりました！\n\n#オリパワン当選報告 https://t.co/rckkEcqqLw",
-                    "author_name": "Ryu",
-                    "author_username": "Ryu60577226",
-                    "created_at": "2026-02-21T08:52:34+09:00",
+                    "id": "2024998835861553597",
+                    "text": "オリパワン（@oripaone）しか勝たん！\n\nブラッキー\n\nありがとうございます。\n\n#オリパワン当選報告 https://t.co/PnWfLpknq0",
+                    "author_name": "Key",
+                    "author_username": "yo_ki_sl",
+                    "created_at": "2026-02-21T09:05:19+09:00",
                     "likes": 0,
                     "retweets": 0,
                     "images": [
-                        "https://pbs.twimg.com/media/HBo6yKebgAEc1dz.jpg"
-                    ]
-                },
-                {
-                    "id": "2024994241941045306",
-                    "text": "オリパワン（@oripaone）しか勝たん！\n\nニンフィアが当たりました！\n\n#オリパワン当選報告 https://t.co/RGx47iN1bP",
-                    "author_name": "pn☃︎",
-                    "author_username": "apxciiii",
-                    "created_at": "2026-02-21T08:47:04+09:00",
-                    "likes": 0,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBo5h4nbgAIQzSI.jpg"
+                        "https://pbs.twimg.com/media/HBo9tMqbgAEg-r2.jpg"
                     ]
                 }
             ]
         },
         "#トレカセンター当選報告": {
             "color": "#8b5cf6",
-            "count": 1,
-            "posts": [
-                {
-                    "id": "2024994350502215777",
-                    "text": "当たったびっくり\n #トレカセンター当選報告 https://t.co/02j399dkC8",
-                    "author_name": "やぎ",
-                    "author_username": "t32_l",
-                    "created_at": "2026-02-21T08:47:30+09:00",
-                    "likes": 2,
-                    "retweets": 0,
-                    "images": [
-                        "https://pbs.twimg.com/media/HBo5oMfbgAAw6j5.jpg"
-                    ]
-                }
-            ]
+            "count": 0,
+            "posts": []
         },
         "#DOPA当選報告": {
             "color": "#10b981",
